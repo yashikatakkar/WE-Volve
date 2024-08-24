@@ -1,1 +1,2 @@
-# WE-Volve
+# WEVolve
+It is an online space built for people who need some time to relax and clear their mind. In our effort to provide users with a blissful experience, we aim to offer them a relaxing environment.
